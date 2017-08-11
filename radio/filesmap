@@ -29,7 +29,6 @@
 
 NON-HLOS.bin            /dev/block/bootdevice/by-name/modem
 
-sec.dat                 /dev/block/bootdevice/by-name/sec
 sbl1.mbn                /dev/block/bootdevice/by-name/sbl1
 tz.mbn                  /dev/block/bootdevice/by-name/tz
 rpm.mbn                 /dev/block/bootdevice/by-name/rpm

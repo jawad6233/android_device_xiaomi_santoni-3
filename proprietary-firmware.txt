@@ -9,5 +9,4 @@ keymaster.mbn
 lksecapp.mbn
 rpm.mbn
 sbl1.mbn
-sec.dat
 tz.mbn
