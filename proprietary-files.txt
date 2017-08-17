@@ -175,14 +175,6 @@ vendor/lib64/libxml.so
 
 # Camera
 bin/mm-qcamera-daemon
-lib/hw/camera.msm8937.so
-vendor/lib/libRecoFace.so
-lib/libmm-qcamera.so
-lib/libmmcamera_interface.so
-lib/libmmjpeg_interface.so
-lib/libmorpho_memory_allocator.so
-lib/libmorpho_panorama.so
-lib/libqomx_core.so
 vendor/lib/libChamomilePA.so
 vendor/lib/libchromaflash.so
 vendor/lib/libflash_pmic.so
@@ -2341,18 +2333,12 @@ lib/modules/pronto/pronto_wlan.ko:lib/modules/wlan.ko|6d6117f0540d97d78b1459979b
 
 # To-Do
 bin/cnss_diag
-lib64/libmorpho_memory_allocator.so
-lib64/libmorpho_panorama.so
 vendor/lib/libChamomilePA.so
 vendor/lib/libExtendedExtractor.so
 vendor/lib/libFileMux.so
 vendor/lib/libFlacSwDec.so
 vendor/lib/libGPTEE.so
 vendor/lib/libSubSystemShutdown.so
-vendor/lib/libarcsoft_beauty_shot.so
-vendor/lib/libarcsoft_beautyshot.so
-vendor/lib/libarcsoft_beautyshot_image_algorithm.so
-vendor/lib/libarcsoft_beautyshot_video_algorithm.so
 vendor/lib/libaudioparsers.so
 vendor/lib/libflash_gpio.so
 vendor/lib/libjni_dualcamera.so
@@ -2364,10 +2350,6 @@ vendor/lib/libmmrtpencoder.so
 vendor/lib/libmmwfdinterface.so
 vendor/lib/libmmwfdsinkinterface.so
 vendor/lib/libmmwfdsrcinterface.so
-vendor/lib/libmorpho_easy_hdr.so
-vendor/lib/libmorpho_hdr_checker.so
-vendor/lib/libmorpho_image_stab4.so
-vendor/lib/libmorpho_panorama_gp.so
 vendor/lib/libpvr.so
 vendor/lib/librmp.so
 vendor/lib/librpmb.so
