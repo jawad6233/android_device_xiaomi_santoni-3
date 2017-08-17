@@ -1,4 +1,4 @@
-# Common device configuration for Xiaomi Redmi 4 (4X)
+# Common device configuration for Xiaomi Redmi 4 & 4X (santoni)
 
 ## Spec Sheet
 
@@ -20,7 +20,7 @@
 
 ## Device Picture
 
-![Redmi 4 (4X)](http://i.imgur.com/LJOwg5m.jpg "Redmi 4 (4X)")
+![Redmi 4 (4X)](http://i.imgur.com/LJOwg5m.jpg "Redmi 4 & 4X")
 
 ## Copyright
 
