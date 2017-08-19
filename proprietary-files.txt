@@ -2329,7 +2329,7 @@ vendor/lib/mediadrm/libwvdrmengine.so|70419ce1f8eb6bd3aa36234f8d7e8003569efc9c
 # Wi-Fi
 bin/wcnss_service
 bin/fstman
-lib/modules/pronto/pronto_wlan.ko:lib/modules/wlan.ko|6d6117f0540d97d78b1459979bf8ced7532b3b05
+lib/modules/pronto/pronto_wlan.ko:lib/modules/wlan.ko|46576a7082aab217e060e0cb858b9e12c272cc3e
 
 # To-Do
 bin/cnss_diag
